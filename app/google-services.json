@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "147207804592",
+    "firebase_url": "https://sondesh-4bfee.firebaseio.com",
+    "project_id": "sondesh-4bfee",
+    "storage_bucket": "sondesh-4bfee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147207804592:android:3e83b66e878eb14f32cd75",
+        "android_client_info": {
+          "package_name": "com.example.sondesh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147207804592-lq2rkaok36mn6qusnv2mkmt83qkrr1ct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sondesh",
+            "certificate_hash": "b1e4278c93c495c60f60504cc223063e3a726ac8"
+          }
+        },
+        {
+          "client_id": "147207804592-8p5hhkvdiclpviuj63hvtd2jt1cst0i3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp7-XcaOBSA-pVbjPLpJDIfYccLbuGdcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147207804592-8p5hhkvdiclpviuj63hvtd2jt1cst0i3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
